@@ -11,4 +11,3 @@ export default function RecipeCard({ id, name, image }) {
     </Link>
   )
 }
-g
