@@ -9,10 +9,10 @@ import SearchResults from './pages/SearchResults'
 export default function App() {
   return (
     <>
-      //navbar
+      
       <Navbar />
       <main className="container">
-        // Routes picks ONE page based on the url 
+        
         <Routes>
          
           <Route path="/" element={<Home />} />
